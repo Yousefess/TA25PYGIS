@@ -6,7 +6,6 @@ import humanize
 import streamlit as st
 from currency_converter import convert_currency, get_exchange_rate
 
-import os
 from dotenv import load_dotenv
 
 load_dotenv()
